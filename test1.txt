@@ -1,2 +1,9 @@
+rename
 something should be changed from feature branch.
 changes done.
+
+Now I'm resolving conflicts
+
+here I'm entering any text that I wants for.
+As I like as I wish.
+master
